@@ -1,6 +1,6 @@
 # Welcome to Slash Point
 
-Slash Point is committed to fostering a community driven effort to secure todays future. Together we will empower organizations to build trustworthy AI models and respect individual rights to data privacy.
+Slash Point is committed to fostering a community driven effort to secure tommorows future. Together we will empower organizations to build trustworthy AI models and respect individual rights to data privacy.
 
 ----
 The goal of this organization is to publish code and innovate on existing techinques to ensure AI models follow these proposed guidlines:
