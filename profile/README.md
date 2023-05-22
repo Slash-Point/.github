@@ -1,4 +1,7 @@
 # Welcome to Slash Point
+
+Slash Point is committed to fostering a community driven effort to secure todays future. Together we will empower organizations to build trustworthy AI models and respect individual rights to data privacy. Our expansion strategy, driven by client acquisition, userbase growth, and strategic partnerships, will position us at the forefront of the AI and data protection domain.
+
 Open Source AI/ML Auditing
 ----
 The goal of this organization is to publish code and innovate on existing techinques to ensure AI models follow these proposed guidlines:
