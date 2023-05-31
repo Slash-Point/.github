@@ -2,6 +2,16 @@
 
 Slash Point is committed to fostering a community driven effort to secure tommorows future. Together we will empower organizations to build trustworthy AI models and respect individual rights to data privacy.
 
+
+
+Here is a quote from this [paper](https://arxiv.org/pdf/2206.05862.pdf) which sums up the goal for SlashPoint's efforts:
+
+ > *Alternatively, a large share of safety research could be categorized in one of these three areas: AI
+security, transparency, and machine ethics. AI Security aims to make models cope in the face of adversaries.
+Transparency aims to help humans reason about and understand AI systems. Machine Ethics aims to create
+artificial agents that behave ethically, such as by not causing wanton harm.*
+
+
 ----
 The goal of this organization is to publish code and innovate on existing techinques to ensure AI models follow these proposed guidlines:
 
