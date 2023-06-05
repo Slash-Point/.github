@@ -30,3 +30,7 @@ The goal of this organization is to publish code and innovate on existing techin
 -   Hardening the input analyzer: Develop advanced techniques to identify and sanitize sensitive data inputs, reducing the risk of leakage and unintentional exposure.
 
 
+# Resources and Communities
+
+1. [AI Alignment Communities](https://coda.io/@alignmentdev/alignmentecosystemdevelopment)
+2. [Gato Framework](https://www.gatoframework.org/getting-started-with-gato)
